@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\amala\Downloads\spring-boot-crud-jpa-h2-master\spring-boot-crud-jpa-h2-master"/>
+			<item value="C:\Users\amala\Downloads\spring-boot-crud-operation\spring-boot-crud-operations"/>
+			<item value="C:\Users\amala\Downloads\spring-boot-crud-operation"/>
+			<item value="C:\Users\amala\Downloads\spring-boot-crud-operation\spring-boot-crud-operation"/>
+			<item value="C:\Users\amala\Downloads\spring-boot-crud-operation. (1)\spring-boot-crud-operation"/>
+			<item value="C:\Users\amala\Downloads\demo (2)\demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

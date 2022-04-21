@@ -1,0 +1,5 @@
+package com.project.crud.respository;
+
+public interface UserRepository {
+
+}
